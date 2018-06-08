@@ -1,5 +1,5 @@
 ---
-title: Como escrever um loop arallel.ForEach simples
+title: Como escrever um loop Parallel.ForEach simples
 ms.date: 03/30/2017
 ms.technology: dotnet-standard
 dev_langs:
@@ -17,7 +17,7 @@ ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/04/2018
 ---
-# <a name="how-to-write-a-simple-parallelforeach-loop"></a>Como escrever um loop arallel.ForEach simples
+# <a name="how-to-write-a-simple-parallelforeach-loop"></a>Como escrever um loop Parallel.ForEach simples
 Este exemplo mostra como usar um loop <xref:System.Threading.Tasks.Parallel.ForEach%2A?displayProperty=nameWithType> para permitir o paralelismo de dados em relação a qualquer fonte de dados <xref:System.Collections.IEnumerable?displayProperty=nameWithType> ou <xref:System.Collections.Generic.IEnumerable%601?displayProperty=nameWithType>.  
   
 > [!NOTE]
